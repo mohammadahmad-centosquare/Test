@@ -1,0 +1,14 @@
+{
+    "name": "ahmad/contact",
+    "description": "This will send email to Anyone and contact save in db",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "Ahmad\\Contact\\": "src/"
+        }
+    }
+}
